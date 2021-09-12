@@ -1,5 +1,5 @@
 ### rashadphil/rashadphil 
-Hi my name is [Rashad](https://www.linkedin.com/in/rashad-philizaire-6751561a1/). I'm a senior at Thomas Jefferson High School for Science and Technology. Check out my COVID-19 [stat tracking site](https://rona19.live/).
+Hi my name is [Rashad](https://www.linkedin.com/in/rashad-philizaire-6751561a1/). I'm a Turing Scholar majoring in computer science at The University of Texas at Austin.
 
   ![rashad's github stats](https://github-readme-stats.vercel.app/api?username=rashadphil&count_private=true&hide=stars,prs&show_icons=true&theme=dracula&&include_all_commits=true)
   
